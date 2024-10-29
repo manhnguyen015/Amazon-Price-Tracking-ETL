@@ -16,4 +16,4 @@ This project is a simple web scraper built in Python that extracts product infor
 
 ### Usage:
 1. Run the script to scrape the product information from a specified Amazon product URL.
-2. The data will be saved in the CSV file `AmazonWebScraperDataset.csv` with proper formatting, ready for use in applications like Excel or Google Sheets.
+2. The data will be saved in the CSV file `amazon.csv` with proper formatting, ready for use in applications like Excel or Google Sheets.
